@@ -13,6 +13,13 @@ This dataset includes customers’ reviews, neighborhood, borough, latitude and 
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
 ### Future Studies:
+So far, from the input features, including neighborhood groups, neighborhoods, availability in a year, last review, the best regression model is only moderate, with an R2 value around 0.5. 
+
+One hypothesis I formed was that there were too many distracting features. I tested this out by only providing the neighborhood information with or without the room type information to the model, as they were shown to have impact on the prcies in the first two parts of the project. However, removing input features decreased the accuracy of the model. 
+
+I took a step back and asked myself what do I care when I book an Airbnb. Information such as last review date, number of reviews, and room type is important. But for a visitor to New York, what matters most is how close the Airbnb unit is to the big apple's landmark and how safe it is. The next thing I will try is to import other databases to this dataset and determine how these new factors impact the prices. 
+
+Stay tuned. 
 
 
 
