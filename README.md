@@ -11,7 +11,7 @@ This dataset includes customers’ reviews, neighborhoods, boroughs, GPS coordin
 - Can we predict Airbnb prices with a model?
 
 #### Data source: 
-NYC Airbnb Prices - Kaggle
+NYC Airbnb Prices (Kaggle):
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
 #### Future Studies:
@@ -29,10 +29,10 @@ In this part of the project, I will import two additional datasets of New York s
 - Is the model better at predicting Airbnb prices with additional subway and crime information?
 
 #### Data source: 
-NYC Transit Subway Entrance And Exit Data - NY State government
+NYC Transit Subway Entrance And Exit Data (NY State government):
 https://data.ny.gov/Transportation/NYC-Transit-Subway-Entrance-And-Exit-Data-API/rwat-jhj8
 
-NYPD Arrests Data - Government Catalog
+NYPD Arrests Data (Government Catalog):
 https://catalog.data.gov/dataset?tags=crime&organization=city-of-new-york
 
 Work in progress. Stay tuned. 
